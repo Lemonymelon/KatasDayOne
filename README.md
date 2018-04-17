@@ -18,7 +18,7 @@ You are testing **'interfaces not implementations'** - you care only about what 
 
 1. Run `npm install` to get necessary testing dependencies
 2. In your katas folder you will find a .js file for each problem that needs solving. Write your solution code here.
-3. Each kata also has .spec.js file associated with it, in the spec folder. Write tests for your code here!
+3. Each kata also has .spec.js file associated with it, in the spec folder. Write tests for your code here! Uncomment the first line to access the functions you have written.
 4. A few of the functions can be tested using the Batman dataset in the data folder. Require this into necessary test files using relative paths to the data, just like the code files are required.
 4. Run `npm test` to run every test in your spec folder. Whenever you get one or two done, swap your pair roles!
 

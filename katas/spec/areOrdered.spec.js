@@ -1,7 +1,7 @@
-const areOrdered = require('../areOrdered');
+// const areOrdered = require('../areOrdered');
 
-describe('areOrdered', () => {
-    it ('describe what happens if this test succeeds here', () => {
-        // expect(areOrdered(???)).to...
-    });
+describe('alternatingCase', () => {
+  it ('describe what happens if this test succeeds here', () => {
+    // expect(areOrdered(???)).to...
+  });
 });

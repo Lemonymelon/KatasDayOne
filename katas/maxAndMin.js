@@ -7,7 +7,6 @@ function max () {
 
 }
 
-
 function min () {
 
 }

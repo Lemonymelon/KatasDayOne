@@ -31,6 +31,10 @@
     }
   ]
 
-
-
 */
+
+function searchTheDatabase () {
+
+}
+
+module.exports = searchTheDatabase;
