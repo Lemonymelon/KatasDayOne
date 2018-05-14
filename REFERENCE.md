@@ -3,7 +3,7 @@
 ## Install the necessary extensions
 
 * On VSCode, go to the extensions side panel. It's the bottom icon on the left hand side. If you can't see any icons, click 'Show Activity Bar' in the view menu.
-* Install 'Prettier - code formatter' and 'ESLint'. These are tools that will help keep your code better formatted, more readable, properly linted and, well, prettier.
+* Install 'ESLint'. This tool will help keep your code better formatted, more readable, properly linted and, well, prettier.
 * You may need to 'reload' after installing for the extension to take effect.
 * You should only need to do this once! If they appear to stop working, check they are not disabled by clicking the same extensions icon.
 
@@ -67,5 +67,4 @@ You can see what these commands are aliases for by checking your package.json.
 * _spec_ is the folder for your tests - _index.spec.js_ tests your _index.js_, etc.
 * _package.json_ contains information used by npm to organise your project.
 * _package-lock.json_ contains the information needed to link your node modules.
-* _.prettierrc_ works with your prettier extension to make your code even prettier. Pretty neat!
 * _README.md_ is instructions for using and running a project! READ IT! Every repo should have one. You can open it in Preview (right click) for a prettier version (using the markdown type formatting).
