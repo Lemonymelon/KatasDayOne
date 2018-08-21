@@ -5,7 +5,7 @@ module.exports = [
     batman: 'Michael Keaton',
     villains: ['The Joker'],
     director: 'Tim Burton',
-    robin: false
+    robin: false,
   },
   {
     title: 'Batman Returns',
@@ -13,7 +13,7 @@ module.exports = [
     batman: 'Michael Keaton',
     villains: ['The Penguin'],
     director: 'Tim Burton',
-    robin: false
+    robin: false,
   },
   {
     title: 'Batman Forever',
@@ -21,7 +21,7 @@ module.exports = [
     batman: 'Val Kilmer',
     villains: ['Two-Face', 'The Riddler'],
     director: 'Joel Schumacher',
-    robin: true
+    robin: true,
   },
   {
     title: 'Batman & Robin',
@@ -29,7 +29,7 @@ module.exports = [
     batman: 'George Clooney',
     villains: ['Mr Freeze', 'Poison Ivy', 'Bane'],
     director: 'Joel Schumacher',
-    robin: true
+    robin: true,
   },
   {
     title: 'Batman Begins',
@@ -37,7 +37,7 @@ module.exports = [
     batman: 'Christian Bale',
     villains: ['Ra\'s al Ghul', 'Scarecrow'],
     director: 'Christopher Nolan',
-    robin: false
+    robin: false,
   },
   {
     title: 'The Dark Knight',
@@ -45,7 +45,7 @@ module.exports = [
     batman: 'Christian Bale',
     villains: ['The Joker', 'Two-Face'],
     director: 'Christopher Nolan',
-    robin: false
+    robin: false,
   },
   {
     title: 'The Dark Knight Rises',
@@ -53,7 +53,7 @@ module.exports = [
     batman: 'Christian Bale',
     villains: ['Bane', 'Talia al Ghul'],
     director: 'Christopher Nolan',
-    robin: true
+    robin: true,
   },
   {
     title: 'Batman v Superman : Dawn of Justice',
@@ -61,6 +61,6 @@ module.exports = [
     batman: 'Ben Affleck',
     villains: ['Lex Luthor'],
     director: 'Zack Snyder',
-    robin: true
-  }
+    robin: true,
+  },
 ];

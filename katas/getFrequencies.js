@@ -13,7 +13,7 @@
 
 */
 
-function getFrequencies () {
+function getFrequencies() {
 
 }
 

@@ -1,6 +1,6 @@
 /*
 
-The unique villainy function should use the batmanData file from the data folder. 
+The unique villainy function should use the batmanData file from the data folder.
 
 It should take one argument the array of films.
 
@@ -8,7 +8,7 @@ It should return an array of all of the villains from all of the batman films. E
 
 */
 
-function uniqueVillainy () {
+function uniqueVillainy() {
 
 }
 

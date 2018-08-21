@@ -6,7 +6,7 @@
   'hello world!!' should return 'ow'
 */
 
-function getMiddleChar () {
+function getMiddleChar() {
 
 }
 
