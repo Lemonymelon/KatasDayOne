@@ -7,7 +7,7 @@
     "test": "mocha katas/spec",
     "start": "node index.js",
     "lint": "./node_modules/.bin/eslint ./katas --fix --format codeframe ",
-    
+    "precommit": "npm test",
     "posttest": "npm run lint"
   },
   "author": "Northcoders",
@@ -23,5 +23,5 @@
     "eslint-plugin-import": "^2.14.0",
     "husky": "^0.14.3",
     "mocha": "^5.0.0"
-  }
+  } 
 }
