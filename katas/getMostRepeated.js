@@ -6,7 +6,7 @@
 
 // var getFrequencies = require('./getFrequencies');
 
-function getMostRepeated () {
+function getMostRepeated() {
 
 }
 

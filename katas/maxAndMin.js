@@ -3,12 +3,12 @@
   If the array has no items, you should return 0.
 */
 
-function max () {
+function max() {
 
 }
 
-function min () {
+function min() {
 
 }
 
-module.exports = {max, min};
+module.exports = { max, min };

@@ -10,7 +10,7 @@
   range(5, 2, 2) --> [2, 4, 6, 8, 10]
 */
 
-function range () {
+function range() {
 
 }
 
