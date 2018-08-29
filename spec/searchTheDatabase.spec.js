@@ -1,7 +1,7 @@
 // const searchTheDatabase = require('../katas/searchTheDatabase');
 
-describe("searchTheDatabase", () => {
-  it("describe what happens if this test succeeds here", () => {
+describe('searchTheDatabase', () => {
+  it('describe what happens if this test succeeds here', () => {
     // expect(searchTheDatabase(???)).to...
   });
 });
