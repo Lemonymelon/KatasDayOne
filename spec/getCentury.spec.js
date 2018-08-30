@@ -1,4 +1,3 @@
-const { describe, it } = require('mocha');
 // const getCentury = require('../katas/getCentury');
 
 describe('getCentury', () => {

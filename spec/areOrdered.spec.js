@@ -1,4 +1,3 @@
-const { describe, it } = require('mocha');
 // const areOrdered = require('../katas/areOrdered');
 
 describe('alternatingCase', () => {

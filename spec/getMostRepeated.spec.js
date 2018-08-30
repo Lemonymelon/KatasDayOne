@@ -1,4 +1,3 @@
-const { describe, it } = require('mocha');
 // const getMostRepeated = require('../katas/getMostRepeated');
 
 describe('getMostRepeated', () => {

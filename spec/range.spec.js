@@ -1,4 +1,3 @@
-const { describe, it } = require('mocha');
 // const range = require('../katas/range');
 
 describe('range', () => {

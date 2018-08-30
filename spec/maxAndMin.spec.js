@@ -1,4 +1,3 @@
-const { describe, it } = require('mocha');
 // const {max, min} = require('../katas/maxAndMin');
 
 describe('max', () => {
